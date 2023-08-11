@@ -7,7 +7,7 @@ using namespace std;
 
 class Solution
 {
-    public:
+     public:
     //Function to find length of longest increasing subsequence.
     int longestSubsequence(int n, int arr[])
     {
